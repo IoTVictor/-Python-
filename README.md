@@ -1,2 +1,2 @@
-# -Python-
-算法与数据结构Python语言描述
+# Data-Structures-Algorithms-in-Python
+常见数据结构与算法-Python语言实现
